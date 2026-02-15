@@ -5,3 +5,5 @@ This is a notebook exploring the phenomenon of superposition in neural networks.
 The notebook is [exploration.ipynb](exploration.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanind/superposition-exploration/blob/main/exploration.ipynb)
+
+![Superposition interference vs hidden dimension](assets/superposition_vs_hidden_dim.png)
