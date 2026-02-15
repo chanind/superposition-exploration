@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = ["sae-lens>=6.37.1"]
+dependencies = [
+    "ipykernel>=7.2.0",
+    "ipywidgets>=8.1.8",
+    "matplotlib>=3.10.8",
+    "scipy>=1.17.0",
+    "torch>=2.10.0",
+    "tqdm>=4.67.3",
+]
